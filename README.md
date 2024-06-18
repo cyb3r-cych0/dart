@@ -11,3 +11,14 @@
     Each class has a method (printStudentInfo and printTeacherInfo) that prints out the respective object's information.
     Created a third class School that creates instances of Student and Teacher objects and calls the methods to print out their information.
     In the main function, created an instance of the School class and call the createObjectsAndPrintInfo method to demonstrate creating student and teacher objects and printing their information.
+    
+## Dart Utilities
+    
+    A function to calculate the sum of two numbers.
+    Printing numbers from 1 to 10 using a for loop.
+    Using a switch statement to check different string values.
+    Printing numbers from 20 to 10 using a while loop.
+    Checking if a number is even or odd using an if-else statement.
+    Finding the largest number in a list of numbers.
+    Using a try-catch block to catch an exception and output an error message.
+
